@@ -1,6 +1,6 @@
 <img src="./images/github.gif" width="100"/>
 
-### <img src="./images/js.gif" width="50"/> The language I used the most is java script
+### <img src="./images/js.gif" width="30"/> The language I used the most is java script
 
 
 
